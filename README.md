@@ -6,7 +6,7 @@ Exercise 1
 
 An optician wants to computerize customer management and glasses sales.
 
-![Optic](src/n1Exe1/s2T1N1Exe1_EER_diagram.png)
+![Optic](src/n1Exe1/n1Exe1_EER_diagram.png)
 
 
 First of all, the optician wants to know the supplier of each of the glasses. Specifically, you want to know about each supplier:
@@ -46,7 +46,7 @@ Exercise 2
 
 You have been hired to design a website that allows you to order food at home online.
 
-![Optic](src/n1Exe2/s2T1N1Exe2_EER_diagram.png)
+![Optic](src/n1Exe2/n1Exe2_EER_diagram.png)
 
 
 Take into account the following indications to model what the project database would be like.
@@ -102,7 +102,7 @@ Level 2
 
 Exercise 1
 
-[Comming soon]
+![Optic](src/n2Exe1/n2Exe1_EER_diagram.png)
 
 
 We will try to make a simple model of what the database would be like for a reduced version of YouTube.
