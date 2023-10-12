@@ -6,6 +6,9 @@ Exercise 1
 
 An optician, called “Cul d'Ampolla”, wants to computerize customer management and glasses sales.
 
+![Optic](n1_Exe1/s2T1N1Exe1_EER_diagram.png)
+
+
 First of all, the optician wants to know the supplier of each of the glasses. Specifically, you want to know about each supplier:
 
 Name.
@@ -55,6 +58,9 @@ Exercise 2
 
 
 You have been hired to design a website that allows you to order food at home online.
+
+![Optic](n1_Exe2/s2T1N1Exe2_EER_diagram.png)
+
 
 Take into account the following indications to model what the project database would be like.
 
