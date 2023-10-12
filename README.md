@@ -1,6 +1,4 @@
 # Sprint2_T1_Data_Structure_MySQL
-Data Structure
-
 
 Level 1
 
