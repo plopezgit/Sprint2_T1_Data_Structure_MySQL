@@ -1,5 +1,9 @@
 # Sprint2_T1_Data_Structure_MySQL
 
+
+Exercises test follow up: **[task](https://github.com/plopezgit/Sprint2_T1_Data_Structure_MySQL/issues/7)**
+
+
 Level 1
 
 Exercise 1
