@@ -27,7 +27,7 @@ VALUES (1, 1, 'Combo1', 'Deli', '/img.png', 12),
 (3, 3, 'Beer', 'Bruna', '/img.png', 1.5);
 
 INSERT INTO `pizza`.`order` (`id`, `order_product_id`, `order_local_date_time`, `order_type`, `order_quantity`, `order_vendor_id`, `order_client_id`, `order_invoice_number`, `store_id`) 
-VALUES (1, 1, '2023-01-01 00:00:00', 'Delivery', 3, 1, 1, '434'),
+VALUES (1, 1, '2023-01-01 00:00:00', 'Delivery', 3, 1, 1, '434', 1),
 (2, 2, '2023-01-01 00:00:00', 'Delivery',2, 1, 2, '435', 1),
 (3, 1, '2023-01-01 00:00:00', 'Delivery',2, 1, 2, '436', 1);
 
