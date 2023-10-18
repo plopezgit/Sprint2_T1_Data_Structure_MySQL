@@ -52,7 +52,6 @@ You have been hired to design a website that allows you to order food at home on
 
 ![Optic](src/n1Exe2/n1Exe2_EER_diagram.png)
 
-
 Take into account the following indications to model what the project database would be like.
 
 For each client we store a unique identifier:
