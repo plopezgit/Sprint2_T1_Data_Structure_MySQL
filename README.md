@@ -170,7 +170,7 @@ Exercise 1
 
 We will try to make a simple model of what the database needed for Spotify would be like.
 
-[Comming soon]
+![Spotify](src/n3Exe1/n3Exe1_EER_diagram.png)
 
 There are two types of users: free and premium. 
 
