@@ -3,14 +3,14 @@ INSERT INTO `pizza`.`province` (`id`, `province_name`) VALUES (1, 'Brio'), (2, '
 INSERT INTO `pizza`.`locality` (`id`, `locality_name`, `province_id`) 
 VALUES (1, 'Brionte', 1), (2,'Cliotild', 2);
 
-INSERT INTO `pizza`.`client` (`id`, `client_name`, `client_surname`, `client_adress`, `client_post_code`, `client_locality_id`, `client_province_id`) 
-VALUES (1, 'Solis', 'Bol', 'adress1', '3423', 1, 2),
-(2, 'Bull', 'Cal', 'adress2', '3422', 1, 2),
-(3, 'Bliss', 'Ful', 'adress3', '6455', 2, 1);
+INSERT INTO `pizza`.`client` (`id`, `client_name`, `client_surname`, `client_adress`, `client_post_code`, `client_locality_id`) 
+VALUES (1, 'Solis', 'Bol', 'adress1', '3423', 1),
+(2, 'Bull', 'Cal', 'adress2', '3422', 1),
+(3, 'Bliss', 'Ful', 'adress3', '6455', 2);
 
-INSERT INTO `pizza`.`store` (`id`, `store_address`, `store_post_code`, `store_locality_id`, `store_province_id`) 
-VALUES (1, 'Colliure', '3545', 1, 2),
-(2, 'Posture', '3252', 2, 1);
+INSERT INTO `pizza`.`store` (`id`, `store_address`, `store_post_code`, `store_locality_id`) 
+VALUES (1, 'Colliure', '3545', 1),
+(2, 'Posture', '3252', 2);
 
 INSERT INTO `pizza`.`vendor` (`id`, `vendor_name`, `vendor_surname`, `vendor_nif`, `vendor_phone_number`, `vendor_type`, `vendor_store_id`) 
 VALUES (1, 'Al', 'Gus', '3225454', '8875674', 'Cook', 1),
