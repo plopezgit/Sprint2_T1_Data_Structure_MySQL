@@ -62,7 +62,7 @@ For each client we store a unique identifier:
 - Postal Code.
 - Location.
 - Province.
-- Phone number.
+- Phone number
 
 The locality and province data will be stored in separate tables. We know that a locality belongs to a single province and that a province can have many localities. A unique identifier and name are stored for each location. In each province we store a unique identifier and a name.
 
