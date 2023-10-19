@@ -3,6 +3,8 @@
 
 Exercises test follow up: **[task](https://github.com/plopezgit/Sprint2_T1_Data_Structure_MySQL/issues/7)**
 
+Reading summary: **[task](https://github.com/plopezgit/Sprint2_T1_MySQL_Data_Structure/issues/12#issue-1948379195)**
+
 
 Level 1
 
